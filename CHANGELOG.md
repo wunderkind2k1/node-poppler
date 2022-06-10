@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file.
 
+## [5.1.7](https://github.com/Fdawgs/node-poppler/compare/v5.1.6...v5.1.7) (2022-06-10)
+
+
+### Miscellaneous
+
+* **.gitignore:** use latest github ignore template ([ff64a1d](https://github.com/Fdawgs/node-poppler/commit/ff64a1d32b4f5e7fbf6f853188ac7cbd7cc49de6))
+* **.prettierignore:** add new paths from `.gitignore` ([47e886a](https://github.com/Fdawgs/node-poppler/commit/47e886a7ccd33ff122004d8ad9d2ed6cf1e75234))
+* ignore pnpm lock file ([311f8a6](https://github.com/Fdawgs/node-poppler/commit/311f8a6e4cb68c53ba6bbf4203f347df2164369e))
+
 ## [5.1.6](https://github.com/Fdawgs/node-poppler/compare/v5.1.5...v5.1.6) (2022-06-04)
 
 
